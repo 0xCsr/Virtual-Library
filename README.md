@@ -14,6 +14,7 @@ Aplicação Spring Boot para cadastro de livros, usuários e o relacionamento en
 - Maven
 - Docker & Docker Compose
 - Git
+- Postman
 
 ## ⚙️ Funcionalidades
 
